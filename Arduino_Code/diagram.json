@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "author": "Anonymous maker",
+  "editor": "wokwi",
+  "parts": [ { "id": "uno", "type": "wokwi-arduino-uno" } ],
+  "connections": []
+}
